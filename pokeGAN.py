@@ -14,8 +14,8 @@ from utils import *
 slim = tf.contrib.slim
 
 HEIGHT, WIDTH, CHANNEL = 128, 128, 3
-BATCH_SIZE = 64
-EPOCH = 5000
+BATCH_SIZE = 30
+EPOCH = 15000
 # os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 version = 'newPokemon'
 newPoke_path = './' + version
@@ -215,31 +215,32 @@ def train():
     print('batch size: %d, batch num per epoch: %d, epoch num: %d' % (batch_size, batch_num, EPOCH))
     print('start training...')
     for i in range(EPOCH):
-        print('i', i)
+        # print('i', i)
         for j in range(batch_num):
-            print('j', j)
-            d_iters = 5
+            # print('j', j)
+            d_iters = 1
             g_iters = 1
 
             train_noise = np.random.uniform(-1.0, 1.0, size=[batch_size, random_dim]).astype(np.float32)
             for k in range(d_iters):
-                print('dk', k)
+                # print('dk', k)
                 train_image = sess.run(image_batch)
                 #wgan clip weights
                 sess.run(d_clip)
                 
                 # Update the discriminator
-                _, dLoss = sess.run([trainer_d, d_loss],
+                _, dLoss, realResult = sess.run([trainer_d, d_loss, real_result],
                                     feed_dict={random_input: train_noise, real_image: train_image, is_train: True})
 
             # Update the generator
             for k in range(g_iters):
-                print('gk', k)
+                # print('gk', k)
                 # train_noise = np.random.uniform(-1.0, 1.0, size=[batch_size, random_dim]).astype(np.float32)
-                _, gLoss = sess.run([trainer_g, g_loss],
+                _, gLoss, fakeResult = sess.run([trainer_g, g_loss, fake_result],
                                     feed_dict={random_input: train_noise, is_train: True})
 
-            print('train:[%d/%d],d_loss:%f,g_loss:%f' % (i, j, dLoss, gLoss))
+            w_d = np.mean(np.abs(fakeResult - realResult))
+            print('train:[%d], w_d:%f, D_real:%f, D_fake:%f, ,d_loss:%f,g_loss:%f' % (i, w_d, np.mean(realResult), np.mean(fakeResult), dLoss, gLoss))
             
         # save check point every 500 epoch
         if i%50 == 0:
@@ -256,7 +257,7 @@ def train():
             # imgtest.astype(np.uint8)
             save_images(imgtest, [8,8] ,newPoke_path + '/epoch' + str(i) + '.jpg')
             
-            print('train:[%d],d_loss:%f,g_loss:%f' % (i, dLoss, gLoss))
+            # print('train:[%d],d_loss:%f,g_loss:%f' % (i, dLoss, gLoss))
     coord.request_stop()
     coord.join(threads)
 
