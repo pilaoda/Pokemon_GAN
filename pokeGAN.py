@@ -16,7 +16,7 @@ slim = tf.contrib.slim
 HEIGHT, WIDTH, CHANNEL = 128, 128, 3
 BATCH_SIZE = 64
 EPOCH = 5000
-os.environ['CUDA_VISIBLE_DEVICES'] = '7'
+os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 version = 'newPokemon'
 newPoke_path = './' + version
 

@@ -11,6 +11,7 @@ import scipy.misc
 import numpy as np
 from time import gmtime, strftime
 from six.moves import xrange
+from scipy.misc import imsave as scimsave
 
 import tensorflow as tf
 import tensorflow.contrib.slim as slim
@@ -65,7 +66,7 @@ def merge(images, size):
 
 def imsave(images, size, path):
   image = np.squeeze(merge(images, size))
-  return scipy.misc.imsave(path, image)
+  return scimsave(path, image)
 
 def center_crop(x, crop_h, crop_w,
                 resize_h=64, resize_w=64):
