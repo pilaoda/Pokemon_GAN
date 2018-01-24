@@ -16,7 +16,7 @@ slim = tf.contrib.slim
 HEIGHT, WIDTH, CHANNEL = 128, 128, 3
 BATCH_SIZE = 64
 EPOCH = 5000
-os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+# os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 version = 'newPokemon'
 newPoke_path = './' + version
 
@@ -166,7 +166,7 @@ def discriminator(input, is_train, reuse=False):
 
 def train():
     random_dim = 100
-    print(os.environ['CUDA_VISIBLE_DEVICES'])
+    # print(os.environ['CUDA_VISIBLE_DEVICES'])
     
     with tf.variable_scope('input'):
         #real and fake image placholders
