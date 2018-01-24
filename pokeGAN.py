@@ -16,7 +16,7 @@ slim = tf.contrib.slim
 HEIGHT, WIDTH, CHANNEL = 128, 128, 3
 BATCH_SIZE = 64
 EPOCH = 5000
-os.environ['CUDA_VISIBLE_DEVICES'] = '15'
+os.environ['CUDA_VISIBLE_DEVICES'] = '7'
 version = 'newPokemon'
 newPoke_path = './' + version
 
@@ -26,7 +26,8 @@ def lrelu(x, n, leak=0.2):
 def process_data():   
     current_dir = os.getcwd()
     # parent = os.path.dirname(current_dir)
-    pokemon_dir = os.path.join(current_dir, 'data')
+    # pokemon_dir = os.path.join(current_dir, 'data')
+    pokemon_dir = os.path.join(current_dir, 'resizedData')
     images = []
     for each in os.listdir(pokemon_dir):
         images.append(os.path.join(pokemon_dir,each))
@@ -46,7 +47,8 @@ def process_data():
     # noise = tf.Variable(tf.truncated_normal(shape = [HEIGHT,WIDTH,CHANNEL], dtype = tf.float32, stddev = 1e-3, name = 'noise')) 
     # print image.get_shape()
     size = [HEIGHT, WIDTH]
-    image = tf.image.resize_images(image, size)
+    image = tf.random_crop(image, [HEIGHT,WIDTH,CHANNEL])
+    # image = tf.image.resize_images(image, size)
     image.set_shape([HEIGHT,WIDTH,CHANNEL])
     # image = image + noise
     # image = tf.transpose(image, perm=[2, 0, 1])
@@ -203,9 +205,9 @@ def train():
     sess.run(tf.global_variables_initializer())
     sess.run(tf.local_variables_initializer())
     # continue training
-    save_path = saver.save(sess, "/tmp/model.ckpt")
+    # save_path = saver.save(sess, "/tmp/model.ckpt")
     ckpt = tf.train.latest_checkpoint('./model/' + version)
-    saver.restore(sess, save_path)
+    saver.restore(sess, ckpt)
     coord = tf.train.Coordinator()
     threads = tf.train.start_queue_runners(sess=sess, coord=coord)
 
@@ -213,15 +215,15 @@ def train():
     print('batch size: %d, batch num per epoch: %d, epoch num: %d' % (batch_size, batch_num, EPOCH))
     print('start training...')
     for i in range(EPOCH):
-        print(i)
+        print('i', i)
         for j in range(batch_num):
-            print(j)
+            print('j', j)
             d_iters = 5
             g_iters = 1
 
             train_noise = np.random.uniform(-1.0, 1.0, size=[batch_size, random_dim]).astype(np.float32)
             for k in range(d_iters):
-                print(k)
+                print('dk', k)
                 train_image = sess.run(image_batch)
                 #wgan clip weights
                 sess.run(d_clip)
@@ -232,14 +234,15 @@ def train():
 
             # Update the generator
             for k in range(g_iters):
+                print('gk', k)
                 # train_noise = np.random.uniform(-1.0, 1.0, size=[batch_size, random_dim]).astype(np.float32)
                 _, gLoss = sess.run([trainer_g, g_loss],
                                     feed_dict={random_input: train_noise, is_train: True})
 
-            # print 'train:[%d/%d],d_loss:%f,g_loss:%f' % (i, j, dLoss, gLoss)
+            print('train:[%d/%d],d_loss:%f,g_loss:%f' % (i, j, dLoss, gLoss))
             
         # save check point every 500 epoch
-        if i%500 == 0:
+        if i%50 == 0:
             if not os.path.exists('./model/' + version):
                 os.makedirs('./model/' + version)
             saver.save(sess, './model/' +version + '/' + str(i))  

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4269e05c-c4b0-4ec9-8e96-707ac9572556" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/こいし_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/さとり_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/てゐ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/にとり_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ぬえ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/はたて_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/アリス_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/キスメ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/サニーミルク_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ジャケットの娘_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/スターサファイア_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/チルノ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ナズーリン_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/パチュリー_通常 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/パチュリー_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/パルスィ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/フラン_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/マエリベリー_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/マミゾウ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ミスティア_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/メディスン_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/メルラン_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ヤマメ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/リグル_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/リリカ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/リリーホワイト_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ルナサ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ルナチャイルド_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ルーミア_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レイセン_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レイラ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レティ_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レミリア_通常 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レミリア_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/一輪＆雲山_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/依姫_特殊2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/優曇華院_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/勇儀_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/咲夜_通常 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/咲夜_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/大妖精_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/天子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/妖夢_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/妹紅_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/小傘_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/小悪魔_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/小町_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/屠自古_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/布都_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/幽々子_通常 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/幽々子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/幽香_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/慧音_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/文_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/早苗_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/星_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/映姫_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/朱鷺子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/村紗_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/椛_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/橙_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/永琳_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/燐_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/白蓮_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/神奈子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/神子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/穣子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/空_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/紫_通常 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/紫_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/美鈴_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/芳香_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/華扇_通常 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/華扇_通常 (3).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/華扇_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/萃香_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/蓮子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/藍_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/衣玖_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/諏訪子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/豊姫_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/輝夜_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/阿求_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/雛_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/霊夢_通常 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/霊夢_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/青娥_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/静葉_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/響子_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/魔理沙_通常 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/魔理沙_通常 (3).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/魔理沙_通常.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/麟_通常.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="resize.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <element signature="e#20#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pokeGAN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pokeGAN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="252" column="85" lean-forward="false" selection-start-line="252" selection-start-column="85" selection-end-line="252" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RGBA2RGB.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGBA2RGB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resize</find>
+      <find>15</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resize.py" />
+        <option value="$PROJECT_DIR$/pokeGAN.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="317" />
+    <option name="y" value="43" />
+    <option name="width" value="1268" />
+    <option name="height" value="801" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myPokemon_GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPokemon_GAN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myPokemon_GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPokemon_GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="newPokemon" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.resize">
+    <configuration name="pokeGAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myPokemon_GAN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pokeGAN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="resize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myPokemon_GAN" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.resize" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pokeGAN" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.resize" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pokeGAN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4269e05c-c4b0-4ec9-8e96-707ac9572556" name="Default" comment="" />
+      <created>1516763446883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516763446883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="317" y="43" width="1268" height="801" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37519622" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RGBA2RGB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2629">
+          <caret line="1295" column="8" lean-forward="false" selection-start-line="1295" selection-start-column="8" selection-end-line="1295" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resizedData/ぬえ_通常.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resizedData/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resizedData/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resizedData/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resizedData/0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="1701" column="4" lean-forward="false" selection-start-line="1701" selection-start-column="4" selection-end-line="1701" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/tensorflow/python/framework/common_shapes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="690" column="0" lean-forward="false" selection-start-line="690" selection-start-column="0" selection-end-line="690" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokeGAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="252" column="85" lean-forward="false" selection-start-line="252" selection-start-column="85" selection-end-line="252" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
