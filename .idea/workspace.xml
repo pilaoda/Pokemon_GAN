@@ -2,100 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4269e05c-c4b0-4ec9-8e96-707ac9572556" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/こいし_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/さとり_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/てゐ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/にとり_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ぬえ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/はたて_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/アリス_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/キスメ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/サニーミルク_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ジャケットの娘_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/スターサファイア_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/チルノ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ナズーリン_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/パチュリー_通常 (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/パチュリー_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/パルスィ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/フラン_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/マエリベリー_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/マミゾウ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ミスティア_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/メディスン_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/メルラン_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ヤマメ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/リグル_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/リリカ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/リリーホワイト_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ルナサ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ルナチャイルド_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ルーミア_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レイセン_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レイラ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レティ_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レミリア_通常 (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/レミリア_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/一輪＆雲山_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/依姫_特殊2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/優曇華院_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/勇儀_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/咲夜_通常 (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/咲夜_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/大妖精_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/天子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/妖夢_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/妹紅_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/小傘_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/小悪魔_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/小町_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/屠自古_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/布都_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/幽々子_通常 (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/幽々子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/幽香_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/慧音_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/文_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/早苗_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/星_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/映姫_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/朱鷺子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/村紗_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/椛_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/橙_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/永琳_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/燐_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/白蓮_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/神奈子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/神子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/穣子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/空_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/紫_通常 (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/紫_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/美鈴_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/芳香_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/華扇_通常 (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/華扇_通常 (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/華扇_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/萃香_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/蓮子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/藍_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/衣玖_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/諏訪子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/豊姫_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/輝夜_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/阿求_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/雛_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/霊夢_通常 (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/霊夢_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/青娥_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/静葉_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/響子_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/魔理沙_通常 (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/魔理沙_通常 (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/魔理沙_通常.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/麟_通常.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pokeGAN.py" afterPath="$PROJECT_DIR$/pokeGAN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="resize.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="resize.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -118,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pokeGAN.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pokeGAN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pokeGAN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="252" column="85" lean-forward="false" selection-start-line="252" selection-start-column="85" selection-end-line="252" selection-end-column="85" />
+            <state relative-caret-position="236">
+              <caret line="209" column="33" lean-forward="false" selection-start-line="209" selection-start-column="33" selection-end-line="209" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -166,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="317" />
     <option name="y" value="43" />
     <option name="width" value="1268" />
@@ -211,11 +118,6 @@
             <path>
               <item name="myPokemon_GAN" type="b2602c69:ProjectViewProjectNode" />
               <item name="myPokemon_GAN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myPokemon_GAN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myPokemon_GAN" type="462c0819:PsiDirectoryNode" />
-              <item name="newPokemon" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,7 +201,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="317" y="43" width="1268" height="801" extended-state="0" />
+    <frame x="317" y="43" width="1268" height="801" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -391,14 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pokeGAN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="252" column="85" lean-forward="false" selection-start-line="252" selection-start-column="85" selection-end-line="252" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -406,6 +300,14 @@
           <folding>
             <element signature="e#20#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokeGAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="209" column="33" lean-forward="false" selection-start-line="209" selection-start-column="33" selection-end-line="209" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

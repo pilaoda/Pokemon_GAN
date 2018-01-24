@@ -205,9 +205,9 @@ def train():
     sess.run(tf.global_variables_initializer())
     sess.run(tf.local_variables_initializer())
     # continue training
-    # save_path = saver.save(sess, "/tmp/model.ckpt")
+    save_path = saver.save(sess, "/tmp/model.ckpt")
     ckpt = tf.train.latest_checkpoint('./model/' + version)
-    saver.restore(sess, ckpt)
+    saver.restore(sess, save_path)
     coord = tf.train.Coordinator()
     threads = tf.train.start_queue_runners(sess=sess, coord=coord)
 
